@@ -1,0 +1,5 @@
+The folder sk-deb is for building the Debian Package, don't touch it.
+
+The sk-win, is the windows installer builder folder. Yes, It's empty.
+
+

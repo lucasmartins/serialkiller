@@ -1,0 +1,7 @@
+Package: serial-killer
+Priority: optional
+Version: 0.2
+Architecture: all
+Maintainer: Lucas Neves Martins
+Depends:
+Description: This is a simple typing automations tool, for serials. It runs using Java JRE, I did not used the 'Depends' to specify this, because you may have you own not-sun's JRE. For more info, visit: http://serialkiller.meusitenoar.com.br

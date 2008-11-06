@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar /opt/serial-killer/SerialKiller.jar 1> /dev/null 2 > /dev/null &

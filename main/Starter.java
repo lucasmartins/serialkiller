@@ -16,7 +16,7 @@ public class Starter
 
     public static void main(String args[])
     {
-        JOptionPane.showMessageDialog(null, "Welcome to the fucking Serial-Killer! beta 0.4c\n\n By Snowniak.");
+        JOptionPane.showMessageDialog(null, "Welcome to the Serial-Killer! beta 0.5\n\n By Snowniak.");
         String text = JOptionPane.showInputDialog("Insert the serial:");
         boolean invalid_input = false;
         int delay_time = 0;
@@ -34,12 +34,12 @@ public class Starter
             }
             if(delay_time == 0)
             {
-                JOptionPane.showMessageDialog(null, "Well, I think you're not so fast to select the field in 0 seconds. If you think I'm wrong, mail me, and proove it.");
+                JOptionPane.showMessageDialog(null, "Well, I think you're not so fast to select the field in 0 seconds. Get real.");
                 invalid_input = false;
             }
             if(delay_time > 15)
             {
-                JOptionPane.showMessageDialog(null, "Uhm, I sad till 15, more than this, and you have a K6-II. Put in the trash, and buy a computer. Don't take this personal.");
+                JOptionPane.showMessageDialog(null, "Uhm, I sad 15, if you really think you need more, mail to nerd@serialkiller.meusitenoar.com.br");
                 invalid_input = false;
             }
         }
