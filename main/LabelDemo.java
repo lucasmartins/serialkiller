@@ -15,7 +15,7 @@ public class LabelDemo
 
     public static void main(String args[])
     {
-        ImageIcon labelIcon = new ImageIcon("Img7.png");
+        ImageIcon labelIcon = new ImageIcon("images/Img7.png");
         JLabel southLabel = new JLabel(labelIcon);
         JFrame application = new JFrame();
         application.setDefaultCloseOperation(3);
