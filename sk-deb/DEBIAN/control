@@ -1,6 +1,6 @@
 Package: serial-killer
 Priority: optional
-Version: 0.2
+Version: 0.2.2
 Architecture: all
 Maintainer: Lucas Neves Martins
 Depends:

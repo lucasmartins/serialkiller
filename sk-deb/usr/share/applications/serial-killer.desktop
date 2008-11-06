@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=SerialKiller
+Name[de]=SerialKiller
+Name[el]=SerialKiller
+Name[es]=SerialKiller
+Name[et]=SerialKiller
+Name[fr]=SerialKiller
+Name[gl]=SerialKiller
+Name[he]=SerialKiller
+Name[it]=SerialKiller
+Name[nb]=SerialKiller
+Name[pl]=SerialKiller
+Name[pt_BR]=SerialKiller
+Name[ru]=SerialKiller
+Name[sl]=SerialKiller
+Name[sv]=SerialKiller
+Name[zh_TW]=SerialKiller
+Comment=A simple tool for automatic input of serial keys, keeps you away from the boring copy-paste thing.
+Exec=serial-killer
+Terminal=false
+StartupNotify=true
+Type=Application
+Icon=/usr/share/icons/hicolor/48x48/apps/seahorse.png
+Categories=GTK;Accessories;
+MimeType=application/x-serial-killer;
+X-Ubuntu-Gettext-Domain=serial-killer
